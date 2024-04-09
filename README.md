@@ -1,1 +1,4 @@
 # rzc
+play
+eat 
+sleep
